@@ -6,14 +6,7 @@ export default async function handler(req, res) {
 
   // 🔽 এখানেই API add করবে
   const APIS = [
-    "https://smsboom.vercel.app/send-otp",
-    "https://smsbooma.vercel.app/verify-phone",
-    "https://smsboomc.vercel.app/shikho-send-otp",
-    "https://smsboomg.vercel.app/bondi-login",
-    "https://smsboomi.vercel.app/bioscope-login",
-    "https://smsboomj.vercel.app/send-otp",
-    "https://smsboomk.vercel.app/send-otp",
-    "https://smsboomm.vercel.app/send-otp",
+    
 
     "https://api3.example.com/verify"
   ];
