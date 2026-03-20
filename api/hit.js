@@ -6,8 +6,12 @@ export default async function handler(req, res) {
 
   // 🔽 এখানেই API add করবে
   const APIS = [
-    
+    "https://smsboomv.vercel.app/otp",
+    "https://smsboomv.vercel.app/otp",
+    "https://smsboomv.vercel.app/otp",
 
+
+    
     "https://api3.example.com/verify"
   ];
 
